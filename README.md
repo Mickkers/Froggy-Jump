@@ -1,5 +1,7 @@
 # Froggy Jump
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mickkers/Froggy-Jump/main/FroggyJumpLogo.png" height='100'/>
+</p>
 <img src="https://raw.githubusercontent.com/Mickkers/Mickkers/main/Froggy%20Jump.gif" height='250'/>
 
 Prototype of a platformer game made in Unity.
