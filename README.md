@@ -1,10 +1,10 @@
-# Platformer-Prototype
+# Froggy Jump
 
-<img src="https://raw.githubusercontent.com/Mickkers/Mickkers/main/PlatformerDemo.gif" height='250'/>
+<img src="https://raw.githubusercontent.com/Mickkers/Mickkers/main/Froggy%20Jump.gif" height='250'/>
 
 Prototype of a platformer game made in Unity.
 
-## [Try the game on itch.io](https://mickkers.itch.io/platformer-demo)
+## [Try the game on itch.io](https://mickkers.itch.io/froggy-jump)
 
 ### Controls
 - Move - A/D
